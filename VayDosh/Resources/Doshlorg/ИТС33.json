@@ -1,0 +1,2340 @@
+[
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Analiz (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Анализ",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ar (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Ар",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Arifmetik (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Арифметика",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Arifmetikne doaqhoš (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Дробь арифметическая",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Arifmetikne ꜧisap (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Арифметическое действие",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ax-ax",
+    "partOfSpeech": "",
+    "russianTranslation": "Пополам",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Axgo (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Полуокружность",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Axtaka (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Полупрямая",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Baqhaꜧarä doaqhoš (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Дробь правильная",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Belgalo (j), berel (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Знак",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Bexkam (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Условие",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Bexkam bola xattar",
+    "partOfSpeech": "",
+    "russianTranslation": "Задача условная",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Boqho gučajoaqqalga (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Доказательство",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Boqho",
+    "partOfSpeech": "",
+    "russianTranslation": "Правило",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Burgackepara thexe (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Поверхность шаровая",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Burgackepe (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Шар",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Bustam (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Мера",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Bustam korta (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Единица измерения",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Byarča dar",
+    "partOfSpeech": "",
+    "russianTranslation": "Целый",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Byarča dolčun daqha loxalga",
+    "partOfSpeech": "",
+    "russianTranslation": "Нахождение по целому его части",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Byarča täraꜧ (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Целое число",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Byastam dagardelga (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Обратный счёт",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Byastam doaqhoš (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Дробь обратная",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Byastam ꜧisap (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Обратное действие",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Veda sa bola qosabarg (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Треугольник тупоугольный",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Vida sa (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Угол тупой",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Vyaškaotto taka (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Замыкающая",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Vyäšaxqetar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Сумма",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Vyäšaxtoxar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Сложение",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Vyäšaxtoxarg (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Слагаемое",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Vyäšdistar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Сравнение",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Vyäšithexdula täki (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Линии пересекающиеся",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Vyäška ottaš dola goama taka (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Замкнутая кривая",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Vyäška ottaš dola kagdenna taka (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Замкнутая ломаная",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Vyäšta nijsdalar",
+    "partOfSpeech": "",
+    "russianTranslation": "Совпадать",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Vyäštadettar",
+    "partOfSpeech": "",
+    "russianTranslation": "Складывать",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Gektar (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Гектар",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Gekto, byä (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Гекто",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Gektolitr (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Гектолитр",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Geometri (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Геометрия",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Geometrine degh (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Геометрическое тело",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Geometrine figura (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Геометрическая фигура",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Geometrine figura (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Фигура геометрии",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Gipotenuza (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Гипотенуза",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Go (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Окружность",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Goama taka (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Линия кривая",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Gona daqha (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Дуга",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Gona däqha gradus (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Дуговой градус",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Gona däqha gradus (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Градус дуговой",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Gona juqhamott",
+    "partOfSpeech": "",
+    "russianTranslation": "Центр круга",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Gona juqhera thexe (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Круг",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "(…) gorga qhovlaraš",
+    "partOfSpeech": "",
+    "russianTranslation": "Скобки простые",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Gorga",
+    "partOfSpeech": "",
+    "russianTranslation": "Круглый",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Gorgadar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Округление",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Gorgadä täraꜧ (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Округлённое число",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Gradus (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Градус",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "…° gradus ° — pxijtta gradus",
+    "partOfSpeech": "",
+    "russianTranslation": "Градус",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Gradusaca sa bustalga (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Градусное измерение угла",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Gramm (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Грамм",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Gran (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Грань",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Grafik (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "График",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ghalat",
+    "partOfSpeech": "",
+    "russianTranslation": "Ошибка",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Dagardar",
+    "partOfSpeech": "",
+    "russianTranslation": "Счёт",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Dagardar",
+    "partOfSpeech": "",
+    "russianTranslation": "Счисление",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Daqha (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Доля",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Daqha (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Частное",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Daqha (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Часть",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Daqhaꜧoqar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Числитель",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Däqhaca byarča dar loxalga",
+    "partOfSpeech": "",
+    "russianTranslation": "Нахождение по части целого",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Dässa täraꜧ (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Отвлечённое число",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Debar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Умножение",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "× debar belgalo",
+    "partOfSpeech": "",
+    "russianTranslation": "Знак умножения",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "⋅ debar belgalo",
+    "partOfSpeech": "",
+    "russianTranslation": "Знак умножения",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Debar",
+    "partOfSpeech": "",
+    "russianTranslation": "Помножить",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Debar",
+    "partOfSpeech": "",
+    "russianTranslation": "Умножить",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Debarg (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Множитель",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Debargiš (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Сомножители",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Debargiš daxar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Разложить на множители",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Deblurg (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Множимое",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Dezal",
+    "partOfSpeech": "",
+    "russianTranslation": "Тяжесть",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Deqhadalara belgalo (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Признак делимости",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Deqhalurg (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Делимое",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Deqhar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Деление",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "— deqhar belgalo",
+    "partOfSpeech": "",
+    "russianTranslation": "Знак деления",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "∶ deqhar belgalo",
+    "partOfSpeech": "",
+    "russianTranslation": "Знак деления",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "┢ deqhar belgalo",
+    "partOfSpeech": "",
+    "russianTranslation": "Знак деления",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Deqharg (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Делитель",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Deqhlulga (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Делимость",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Derzam dolaš",
+    "partOfSpeech": "",
+    "russianTranslation": "Направление",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Decimetr (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Дециметр",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Diagonal (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Диагональ",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Diagramma (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Диаграмма",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Dialagha daqha (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Четверть",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Diametr (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Диаметр",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Doazonaš doxadar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Открыть скобки",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Doazonašca gottadar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Ограниченный",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Doaqhoj daqhadoaqqar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Знаменатель дроби",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Doaqhoj täraꜧ (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Дробное число",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Doaqhoj juqhera byarča täraꜧ daqqar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Исключение целого числа из дроби",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Doaqhoš (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Дробь простая",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Doaqhoš (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Дробь",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Doaqhoš dolaš",
+    "partOfSpeech": "",
+    "russianTranslation": "Дробный",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Doaqhoš du debarg (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Множитель дополнительный",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Doaqhoš cꜧan daqhadoaqqatatha doaxalga",
+    "partOfSpeech": "",
+    "russianTranslation": "Приведение дроби к общему знаменателю",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Doasdar korta (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Единица разряда",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Dozala korta (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Единица веса",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Doqqal (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Величина",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Doqqal gučadoaqqa täraꜧ (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Значение величины",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Doqqax deqharg (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Делитель общий наибольший",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Duqa cifraš jola täraꜧ (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Многозначное число",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Duqa",
+    "partOfSpeech": "",
+    "russianTranslation": "Множество",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Duqasänašdarga oaghuv (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Сторона многоугольника",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Duqagrannašjarg (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Многогранник",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Duqasänašdarg",
+    "partOfSpeech": "",
+    "russianTranslation": "Многоугольник",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "> duqax >",
+    "partOfSpeech": "",
+    "russianTranslation": "Больше",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Dusar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Остаток",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Dusar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Разность",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Dustalga (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Измерение",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Duꜧ-duꜧa oaghonaš dola qosabarg (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Треугольник разносторонний",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Dyadagardar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Прямой счёт",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Dyoaxal (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Длина",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Dyoaxal korta (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Единица длины",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Žop laxar",
+    "partOfSpeech": "",
+    "russianTranslation": "Решать",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Žoplaxar",
+    "partOfSpeech": "",
+    "russianTranslation": "Решить задачу",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ira sa (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Острый угол",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ira sa (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Угол острый",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ira sa bola qosabarg (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Треугольник остроугольный",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ira sänaš dola qosabarg (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Остроугольный треугольник",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ittal doaqhoš (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Десятичная дробь",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Joarže (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Пространство",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Kagdenna taka (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Линия ломаная",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Karal",
+    "partOfSpeech": "",
+    "russianTranslation": "Зависимость",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Katet (d); qosabarg nijsača sänga vyäškaottaš dola oaghoš",
+    "partOfSpeech": "",
+    "russianTranslation": "Катет",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Kvadrat (j); cꜧatarra oaghoša sänaš a dola biasabarg",
+    "partOfSpeech": "",
+    "russianTranslation": "Квадрат",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Kvadrata bustam korta (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Единица квадратная",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "[…] kvadratne qhovlaraš",
+    "partOfSpeech": "",
+    "russianTranslation": "Скобки квадратные",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Kvadratne metr (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Квадратный метр",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Kertera qetam (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Основное понятие",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Kilo (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Кило",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Kilogram (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Килограмм",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Kilometr (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Километр",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Klass (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Класс",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Kombinaci (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Комбинация",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Kontur (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Контур",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Kub (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Куб",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Kuban bustam korta (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Единица кубическая",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Kubatura (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Кубатура",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Kubne metr (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Кубический метр",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Qetam",
+    "partOfSpeech": "",
+    "russianTranslation": "Понятие",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Qiča cheratha daxar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Обращение",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Qoačam bu debarg (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Дополнительный множитель",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Qoače",
+    "partOfSpeech": "",
+    "russianTranslation": "Предел",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Qosabarg (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Треугольник",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "△ qosabarg",
+    "partOfSpeech": "",
+    "russianTranslation": "Треугольник",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Qosabarga buꜧ (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Вершина треугольника",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Qosabarga khile (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Основание треугольника",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Qosabarga loqal (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Высота треугольника",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Qosabarga oaghuv (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Боковая сторона треугольника",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Qosabarga oaghuv (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Сторона треугольника",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Qi täraꜧaš čuläcar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Составное число",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Qhästa mottig (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Частный случай",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Qhovlaraš (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Скобки",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Qhovlaraš ottor",
+    "partOfSpeech": "",
+    "russianTranslation": "Брать в скобки",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Qhovlarašta juqhera daqqar",
+    "partOfSpeech": "",
+    "russianTranslation": "Вынести за скобки",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": ". khaltha däqqa doqqal (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Обратная величина",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": ". khalthadäqqa doaqhoš (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Обратная дробь",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Kheziga dola čuläcar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Кратное наименьшее",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Khezigax dola čuläcar",
+    "partOfSpeech": "",
+    "russianTranslation": "Наименьшее кратное",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Khezigax dola juqhara daqhadoaqqar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Знаменатель общий наименьший",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "< khezigax <",
+    "partOfSpeech": "",
+    "russianTranslation": "Меньше",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Khile, lard (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Основание",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Khilenna itt läca bustam (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Десятичная система мер",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Khilenna itt läca dagardelga (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Десятичная система нумерации",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Khilenna itt läca dagardelga (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Десятичная система счисления",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Lätta dusta zyi",
+    "partOfSpeech": "",
+    "russianTranslation": "Мерная цепь",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Leqeꜧara matematik",
+    "partOfSpeech": "",
+    "russianTranslation": "Высшая математика",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Lelalga (d), lelam (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Движение",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Lini (d), taka",
+    "partOfSpeech": "",
+    "russianTranslation": "Линия",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Litr (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Литр",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Loarhalga (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Вычисление",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Loarham (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Значение",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Loacadar",
+    "partOfSpeech": "",
+    "russianTranslation": "Сократить",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Loacadar",
+    "partOfSpeech": "",
+    "russianTranslation": "Сокращение",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Loacalurdoaca doaqhoš (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Дробь несократимая",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Loaclu doaqhoš (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Дробь сократимая",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Loxaš dola täraꜧ (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Искомое число",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Mejda",
+    "partOfSpeech": "",
+    "russianTranslation": "Площадь",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Maksimum (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Максимум",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Masal (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Пример",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Masexk thatoxar",
+    "partOfSpeech": "",
+    "russianTranslation": "Увеличить на столько",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Masexk theradaqqar",
+    "partOfSpeech": "",
+    "russianTranslation": "Уменьшить на столько-то",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Masexkaza duqax dar",
+    "partOfSpeech": "",
+    "russianTranslation": "Увеличить во столько раз",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Masexkaza khezgdar",
+    "partOfSpeech": "",
+    "russianTranslation": "Уменьшить во столько-то раз",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Massal (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Количество",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Matematik (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Математика",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Maštab (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Масштаб",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Mediana (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Медиана",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Metod (j) dučun niqh; dešara juqhe ꜧexama niqh",
+    "partOfSpeech": "",
+    "russianTranslation": "Метод",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Metr (j) dyoaxala bustam; loacdä jazdeš xilča: «m»",
+    "partOfSpeech": "",
+    "russianTranslation": "Метр",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Metrax bänna bustam (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Метрическая система мер",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Milimetr (j). Loacdä jazdeš xilča: «mm»",
+    "partOfSpeech": "",
+    "russianTranslation": "Миллиметр",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Minimum (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Минимум",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Minus (d), theradaqqara belgalo",
+    "partOfSpeech": "",
+    "russianTranslation": "Минус",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "− minus",
+    "partOfSpeech": "",
+    "russianTranslation": "Минус",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Minut (j), xana bustam",
+    "partOfSpeech": "",
+    "russianTranslation": "Минута",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "…’ minut ’ — jalx minut",
+    "partOfSpeech": "",
+    "russianTranslation": "Минута",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Mištal (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Качество",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Mottigiš xuvca yädal (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Закон переместительный",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Nijsa sa (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Прямой угол",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Nijsa sa (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Угол прямой",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Nijsa sa bola qosabarg (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Прямоугольный треугольник",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Nijsa taka (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Прямая",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Nijsalo (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Равенство",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "≠ nijsle joacar ≠",
+    "partOfSpeech": "",
+    "russianTranslation": "Неравно",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "= nijsle jar × =",
+    "partOfSpeech": "",
+    "russianTranslation": "Равно",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Nijslo joacaš (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Неравный",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Nijslo caxilar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Неравенство",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Nijslo caxilara belgalo (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Знак неравенства",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Nijslon belgalo (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Знак равенства",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Nijssa",
+    "partOfSpeech": "",
+    "russianTranslation": "Равный",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Nomr",
+    "partOfSpeech": "",
+    "russianTranslation": "Нумер",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Nul (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Нуль",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Oaghon thexe (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Боковая поверхность",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Oaghon thexe (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Поверхность боковая",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Oaghuv (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Сторона",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Oamalga daqqar",
+    "partOfSpeech": "",
+    "russianTranslation": "Навык",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "-oghar",
+    "partOfSpeech": "",
+    "russianTranslation": "Построение",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ozam (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Вес",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Parallelepiped (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Параллелепипед",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Perimetr (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Периметр",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Perpendikulär (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Перпендикуляр",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Plus (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Плюс",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "+ plus",
+    "partOfSpeech": "",
+    "russianTranslation": "Плюс",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Procent (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Процент",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "% procent % — pxi procent",
+    "partOfSpeech": "",
+    "russianTranslation": "Процент",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Pxoraxdarg",
+    "partOfSpeech": "",
+    "russianTranslation": "Поперечник",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Radius (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Радиус",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "?",
+    "partOfSpeech": "",
+    "russianTranslation": "Разряд десятков",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "?",
+    "partOfSpeech": "",
+    "russianTranslation": "Разряд единиц",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "?",
+    "partOfSpeech": "",
+    "russianTranslation": "Разряд",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "?",
+    "partOfSpeech": "",
+    "russianTranslation": "Решение",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Rima cifraš (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Римские цифры",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Rima cifraš (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Цифры римские",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Sa (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Угол",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "∠ sa",
+    "partOfSpeech": "",
+    "russianTranslation": "Угол",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Santimetr (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Сантиметр",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "{…} sattä qhovlaraš",
+    "partOfSpeech": "",
+    "russianTranslation": "Скобки фигурные",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Säna buꜧ (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Вершина угла",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Säna gradus (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Градус угловой",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Säna oaghuv (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Сторона угла",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Sänašdexkarg (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Наугольник",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Sekund (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Секунда",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "…” sekund ” — vorh sekund",
+    "partOfSpeech": "",
+    "russianTranslation": "Секунда",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Sintez (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Синтез",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Sistema (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Система",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "?",
+    "partOfSpeech": "",
+    "russianTranslation": "Соотношение",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Tablica (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Таблица",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Takan bustam korta (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Единица линейная",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Täkašca där (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Чертёж",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Täki maštab (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Линейный масштаб",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Täki xattar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Задача на построение",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Täkidexkarg (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Линейка",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Transportir (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Транспортир",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Trapeci (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Трапеция",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Thadam",
+    "partOfSpeech": "",
+    "russianTranslation": "Точка",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Theradaqqar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Вычитание",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Theradoaqqar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Вычитаемое",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Thexe (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Поверхность",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Thexen bustam korta (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Единица площади",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Thexen mejda (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Площадь поверхности",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "?",
+    "partOfSpeech": "",
+    "russianTranslation": "Удельный вес",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ulura sa (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Угол смежный",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ulura taka (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Параллельная прямая",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ulura täki (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Линии параллельные",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "?",
+    "partOfSpeech": "",
+    "russianTranslation": "Упражнение",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Figura (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Фигура",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Figura vyäškajillar (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Перегибать фигуру",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Forma (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Форма",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Xarc doaqhoš (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Дробь неправильная",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Xattar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Задача",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Xädda taka",
+    "partOfSpeech": "",
+    "russianTranslation": "Отрезок прямой",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Xoadambaqqar",
+    "partOfSpeech": "",
+    "russianTranslation": "Определение",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Xoadar (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Сечение",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Xular (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Результат",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ꜧalxdenna täraꜧ",
+    "partOfSpeech": "",
+    "russianTranslation": "Заданное число",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ꜧisap (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Действие",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ꜧisapa belgalo (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Знак действия",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ꜧisapaš qhovlaraška čuꜧolga (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Заключение в скобки",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ꜧožalga (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Проба",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ꜧoqa (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Веха",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Centner (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Центнер",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Centr (j), juqhamott",
+    "partOfSpeech": "",
+    "russianTranslation": "Центр",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Cilindarne thexe (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Поверхность цилиндрическая",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Cilindr (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Цилиндр",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Cirkul (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Циркуль",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Cifra (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Цифра",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "?",
+    "partOfSpeech": "",
+    "russianTranslation": "Цифра значащая",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "?",
+    "partOfSpeech": "",
+    "russianTranslation": "Цифра не значащая",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Cꜧa oamal jola täraꜧaš (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Совокупность чисел",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Cꜧa cifr jola täraꜧ (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Однозначное число",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Cꜧaa (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Единица",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Cꜧalxane täraꜧ (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Простое число",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Cꜧatarra oaghonaš dola qosabarg (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Треугольник равносторонний",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Cheracara täraꜧ",
+    "partOfSpeech": "",
+    "russianTranslation": "Именованное число",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Čaqqe (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Расстояние",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Čotaš (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Счёты",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Čoxnaꜧdalar, ešadalar",
+    "partOfSpeech": "",
+    "russianTranslation": "Убывать",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Čuläcar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Кратное",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Čuloacam (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Ёмкость",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Čuloacam (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Объём",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Čuloacam korta (b)",
+    "partOfSpeech": "",
+    "russianTranslation": "Единица ёмкости",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Šära thexe (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Плоскость",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Šeral (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Ширина",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ši (duqqa) täraꜧ čuläcar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Кратное двух (нескольких) чисел",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ši cifr jola täraꜧ (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Двузначное число",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Šinnena deqhalu täraꜧ (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Чётное число",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Šinnena ca deqhalu täraꜧ (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Нечётное число",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Šojla cꜧalx dola täraꜧaš (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Взаимно простые числа",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Šolxdaqqar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Удваивать",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ekvator (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Экватор",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ekvatorne",
+    "partOfSpeech": "",
+    "russianTranslation": "Экваториальный",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ekker (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Эккер",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Element (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Элемент",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Elementarne matematik (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Математика элементарная",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Elementarne matematik",
+    "partOfSpeech": "",
+    "russianTranslation": "Элементарная математика",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Ešalurg (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Уменьшаемое",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Juqhara debarg (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Множитель общий",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Juqhera taka (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Средняя линия",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Juqhera juqh (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Средина",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Juqheradaqqar (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Исключение",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "≥ ja nijsa, ja duqax",
+    "partOfSpeech": "",
+    "russianTranslation": "Больше или равно",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "≤ ja nijsa, ja khezigax",
+    "partOfSpeech": "",
+    "russianTranslation": "Меньше или равно",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Yarabi cifraš (j)",
+    "partOfSpeech": "",
+    "russianTranslation": "Цифры арабские",
+    "terms": "Математика"
+  },
+  {
+    "dictionary": "ИТС33",
+    "ingushWord": "Yovr (d)",
+    "partOfSpeech": "",
+    "russianTranslation": "Произведение",
+    "terms": "Математика"
+  }
+]

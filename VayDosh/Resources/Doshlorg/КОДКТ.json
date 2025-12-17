@@ -1,0 +1,3026 @@
+[
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "А",
+    "partOfSpeech": "",
+    "russianTranslation": "Нет — no",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "А́йдар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Поднятие — shift",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Алап (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Буква — letter",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "А́лар (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Комментарий — comment",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Амар (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Команда — command",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "А́рава́ла",
+    "partOfSpeech": "",
+    "russianTranslation": "Выйти — escape",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "А́рава́лар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Выход — exit output quit",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "А́рада́ккхар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Выступ — outdent",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "А́рара та́ка (~ш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Внешняя линяя — outline",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "А́рара",
+    "partOfSpeech": "",
+    "russianTranslation": "Внешний — external",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "А́рахьа",
+    "partOfSpeech": "",
+    "russianTranslation": "Вне — out outside",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "А́ре (~наш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Пространство — area",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ах",
+    "partOfSpeech": "",
+    "russianTranslation": "Половина — half",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Аьрдехьа д1аозар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Отступ влево — undent",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Аьрдехьара",
+    "partOfSpeech": "",
+    "russianTranslation": "Левый — left",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Аьттехьа д1аозар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Отступ вправо — indent",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Аьттехьара",
+    "partOfSpeech": "",
+    "russianTranslation": "Правый — right",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Байт (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Байт — byte",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Бакъде",
+    "partOfSpeech": "",
+    "russianTranslation": "Подтвердить — confirm",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Баьде",
+    "partOfSpeech": "",
+    "russianTranslation": "Тёмный — dark",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Бе лелаю компутер (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Лэптоп — laptop",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Белгалде",
+    "partOfSpeech": "",
+    "russianTranslation": "Пометить — mark",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Белгалдоахар (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Примечание — reference",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Белгало (~наш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Особенность — feature",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Бехкама белгало (~наш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Символ — character",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Боарам (б)",
+    "partOfSpeech": "",
+    "russianTranslation": "Размер — size",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Боарамза",
+    "partOfSpeech": "",
+    "russianTranslation": "Нестандартный — custom",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Боккъонца",
+    "partOfSpeech": "",
+    "russianTranslation": "Реальный — real",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Бокъо йоаца",
+    "partOfSpeech": "",
+    "russianTranslation": "Неразрешённый — illegal",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Бокъонца дола",
+    "partOfSpeech": "",
+    "russianTranslation": "Типичный — typical",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Болх бе",
+    "partOfSpeech": "",
+    "russianTranslation": "Работать — work",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Болх беш йола система (~ш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Оперативная система — OS (operating system)",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Бос (бесаш) (б, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Цвет — colour",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Бувзам (~аш) (б, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Контекст — context",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Бух (бовхаш) (б, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Низ — bottom",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Б1арчча",
+    "partOfSpeech": "",
+    "russianTranslation": "Целый — entire",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Б1арччадар (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Целое (данное) — integer",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "В1ашт1ехцадалар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Неудача — failure",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Га (гаьнаш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Дерево — tree",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Галоадам (б)",
+    "partOfSpeech": "",
+    "russianTranslation": "Поддержка — support",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Гаьнардар (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Удалённый — remote",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Гом (~аш) (б, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Фрейм (рамка) — frame",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Гонахье (й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Среда — environment",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Г1а (г1аьнаш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Лист — sheet",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Г1а́лат (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Ошибка — error bug",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Г1арч1оаг1ъярг (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Колонка — column",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Г1о (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Помощь (справка) — help",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Г1оаролг (й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Курсор — cursor",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Г1онча (~ш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Утилита — utility",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Г1улакхдар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Обслуживание — service",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Да (~й) (в, б)",
+    "partOfSpeech": "",
+    "russianTranslation": "Владелец — owner",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дагадохийтар (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Подсказка — hint",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дагала́ттар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Память — memory",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дагала́ца",
+    "partOfSpeech": "",
+    "russianTranslation": "Помнить — remember",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дагалоацар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Память — storage",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дагара йоазув (йоазонаш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Учётная запись — account",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дагарг (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Разряд (цифровой) — digit",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дагарга́",
+    "partOfSpeech": "",
+    "russianTranslation": "Цифровой — digital",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Да́имадар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Постоянный (прямой) — direct",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Да́имдар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Постоянный — constant permanent",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дайнар (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Потерянный — lost",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Да́къа (доакъош) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Часть — part",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дараш (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Данные — data",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дараш д1адахийтар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Экспорт данных — export",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дараш цахилар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Отсутствие данных — null",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дарашца болх бар",
+    "partOfSpeech": "",
+    "russianTranslation": "Обработка данных — data processing",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дарий гуллам (б)",
+    "partOfSpeech": "",
+    "russianTranslation": "База данных — database",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дарий к1едж (й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Поток данных — pipe",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дахка (дехкий) (б, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Мышь — mouse",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Даькъа ц1и (ц1ераш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Заголовок — header title",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Даьшха",
+    "partOfSpeech": "",
+    "russianTranslation": "Подробный — particularly",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Де",
+    "partOfSpeech": "",
+    "russianTranslation": "Делать — make",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Де́къата́ка (~ш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Разделитель — separator",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Деррига",
+    "partOfSpeech": "",
+    "russianTranslation": "Все (ё) — all",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дехьадаккха",
+    "partOfSpeech": "",
+    "russianTranslation": "Трансфер — transfer",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Деша",
+    "partOfSpeech": "",
+    "russianTranslation": "Читать — read",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Де́шара г1а́лат (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Ошибка чтения — read error",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дизза",
+    "partOfSpeech": "",
+    "russianTranslation": "Полный — complete",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дийладар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Текущий — current",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дийхкар (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Запрещённый — denied",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дисар",
+    "partOfSpeech": "",
+    "russianTranslation": "Остаток — rest",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дисплей (й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Дисплей — display",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дита",
+    "partOfSpeech": "",
+    "russianTranslation": "Оставить — leave",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Доацар",
+    "partOfSpeech": "",
+    "russianTranslation": "Отсутствующий — missing",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Довза",
+    "partOfSpeech": "",
+    "russianTranslation": "Распознать — recognize",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Доладе",
+    "partOfSpeech": "",
+    "russianTranslation": "Начать — begin",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Долча тайпара",
+    "partOfSpeech": "",
+    "russianTranslation": "По умолчанию — default",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дотта",
+    "partOfSpeech": "",
+    "russianTranslation": "Строить — build",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дош (дешаш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Слово — word",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Драйвер (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Драйвер — driver",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дуйм (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Дюйм — inch",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дуккхаца",
+    "partOfSpeech": "",
+    "russianTranslation": "Многократный — multiple",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Дукхаг1а",
+    "partOfSpeech": "",
+    "russianTranslation": "Больше — more",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Духь (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Source — источник",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1а-сахьожадар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Перенаправление — redirection, redirect",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1адаккха",
+    "partOfSpeech": "",
+    "russianTranslation": "Удалить — delete erase",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1адала",
+    "partOfSpeech": "",
+    "russianTranslation": "Подавать — feed",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1адахийта",
+    "partOfSpeech": "",
+    "russianTranslation": "Выслать — send",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1адила",
+    "partOfSpeech": "",
+    "russianTranslation": "Сохранить — save",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1адилла улде",
+    "partOfSpeech": "",
+    "russianTranslation": "Хранить — keep",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1адилла",
+    "partOfSpeech": "",
+    "russianTranslation": "Резервировать — reserve",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1адоаде",
+    "partOfSpeech": "",
+    "russianTranslation": "Зачеркнуть — scratch",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1адоаде",
+    "partOfSpeech": "",
+    "russianTranslation": "Удалить — remove",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1айоае",
+    "partOfSpeech": "",
+    "russianTranslation": "Выключить — enable off",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1айоае",
+    "partOfSpeech": "",
+    "russianTranslation": "Отключить — disable",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1акхайкадар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Заявка — statement",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1акъовла",
+    "partOfSpeech": "",
+    "russianTranslation": "Закрыть — close lock",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1але",
+    "partOfSpeech": "",
+    "russianTranslation": "Дать — give",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1алиста",
+    "partOfSpeech": "",
+    "russianTranslation": "Пролистать — scroll",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1анийсде",
+    "partOfSpeech": "",
+    "russianTranslation": "Выровнять — align",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1аозар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Отступ — spacing",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1аоттадар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Установка — setting",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1ахайтар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Предупреждение — warning",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1ахаттар",
+    "partOfSpeech": "",
+    "russianTranslation": "Запрос — task",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1ахо",
+    "partOfSpeech": "",
+    "russianTranslation": "Продолжать — continue",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1ахоозар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Табуляция — tab",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1ахувца",
+    "partOfSpeech": "",
+    "russianTranslation": "Заменить — replace",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1ахьоарчае",
+    "partOfSpeech": "",
+    "russianTranslation": "Упаковывать — pack",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1ацаяьзлу",
+    "partOfSpeech": "",
+    "russianTranslation": "Незаписываемый — unerecoverable",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1ачуоттадаьр (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Встроенный — build-in",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Д1аяьзде",
+    "partOfSpeech": "",
+    "russianTranslation": "Регистрировать — register",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Е",
+    "partOfSpeech": "",
+    "russianTranslation": "Или — or",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Зарба тоха",
+    "partOfSpeech": "",
+    "russianTranslation": "Печатать — print out type",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Зарбатохарг (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Принтер — daisy-wheel printer printer",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Зем бе",
+    "partOfSpeech": "",
+    "russianTranslation": "Контролировать — control",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Зембер (й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Контроллер — controller",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Зиппар (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Шина — bus",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ильг (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Таблица — table",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Интернет (й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Интернет — internet",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Иттдаькъа",
+    "partOfSpeech": "",
+    "russianTranslation": "Десятичный — decimal",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Йоазув (йоазонаш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Запись — record",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Йоазув довзар",
+    "partOfSpeech": "",
+    "russianTranslation": "Распознавание текстов — OCR",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Йоазув т1ехьдаккхар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Перенос текста — wordwrap",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Йоккха",
+    "partOfSpeech": "",
+    "russianTranslation": "Большой — great",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Й1оахал (й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Длина — length",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Кастта",
+    "partOfSpeech": "",
+    "russianTranslation": "Часто — frequently",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Каталог",
+    "partOfSpeech": "",
+    "russianTranslation": "Директория, каталог — directory (dir)",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Каталога да́къа (доакъош) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Подкаталог — subdirectory",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Категори (~еш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Категория — category",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Качилг (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Файл — file",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Каьхат (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Письмо — mail",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Каьхат дац",
+    "partOfSpeech": "",
+    "russianTranslation": "Нет бумаги — out of paper",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Кеп (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Форма — form shape",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Кеп яьккха",
+    "partOfSpeech": "",
+    "russianTranslation": "Копировать — copy",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Керда",
+    "partOfSpeech": "",
+    "russianTranslation": "Новый — new",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Кердадаккха",
+    "partOfSpeech": "",
+    "russianTranslation": "Обновить — update",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Кердадаккха",
+    "partOfSpeech": "",
+    "russianTranslation": "Переформатировать — re-format",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Кердадаккхар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Обновление — refreshing",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Керттера дош (дешаш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Ключевое слово — keyword",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Керттера йоаца белгало (~наш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Подробность — detail",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Керттера",
+    "partOfSpeech": "",
+    "russianTranslation": "Главный — main",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Керттердар (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Приоритет — priority",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Кечама кеп (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Запасная копия — backup",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Кечде",
+    "partOfSpeech": "",
+    "russianTranslation": "Приготовить — prepare",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Кийча",
+    "partOfSpeech": "",
+    "russianTranslation": "Готов — ready",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Кийчдар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Оформление — design",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Компутер (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Компьютер — computer",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Кор (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Окно — window",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Кордаьр (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Найденный — found",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Кулгалдар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Руководство — manual",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Куц (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Общий вид — layout",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Кхаччалца",
+    "partOfSpeech": "",
+    "russianTranslation": "Вплоть до… — until",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Кхоачашдаьд",
+    "partOfSpeech": "",
+    "russianTranslation": "Выполнено — done",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Кхоачашде",
+    "partOfSpeech": "",
+    "russianTranslation": "Выполнить — execute fill",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Кхоачашдеш дола",
+    "partOfSpeech": "",
+    "russianTranslation": "Выполняемый — executable exe",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Кхыча тайпара",
+    "partOfSpeech": "",
+    "russianTranslation": "Иначе — rather",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Кхычахьа дерзаде",
+    "partOfSpeech": "",
+    "russianTranslation": "Переключить — switch",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Къайладаккха",
+    "partOfSpeech": "",
+    "russianTranslation": "Скрыть — hide",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Къайладар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Скрытый — hidden",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Къаьна",
+    "partOfSpeech": "",
+    "russianTranslation": "Старый — old",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Къерда",
+    "partOfSpeech": "",
+    "russianTranslation": "Сортировать — sort",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "К1алара ж1ака (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Нижняя черта — dash",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ла́г1а (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Ступень — stopień degree",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ла́г1а (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Уровень — level",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Лак (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Клавиша — key",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Лакашк (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Клавиатура — keyboard",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Лакха",
+    "partOfSpeech": "",
+    "russianTranslation": "Высокий — high",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Лакхал",
+    "partOfSpeech": "",
+    "russianTranslation": "Высота — height",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Лакхера",
+    "partOfSpeech": "",
+    "russianTranslation": "Верхний — upper",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ластар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Направление — direction",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Лаха",
+    "partOfSpeech": "",
+    "russianTranslation": "Искать — search",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Лерх1ар (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Цель — destination purpose target",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ло (лераш) (б, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Шаблон — template",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ло ба́ккха",
+    "partOfSpeech": "",
+    "russianTranslation": "Сканировать — scan",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Лоаттаде",
+    "partOfSpeech": "",
+    "russianTranslation": "Держать — hold",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Лоаца",
+    "partOfSpeech": "",
+    "russianTranslation": "Короткий — short",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Лоаччар (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Оболочка — shell",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ловзар (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Игра — game",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Лораяь",
+    "partOfSpeech": "",
+    "russianTranslation": "Защищённый от записи — write-protect",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Лостам (б)",
+    "partOfSpeech": "",
+    "russianTranslation": "Порядок — order",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Лоха",
+    "partOfSpeech": "",
+    "russianTranslation": "Низкий — low",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Лохаг1а",
+    "partOfSpeech": "",
+    "russianTranslation": "Ниже — below",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Мага",
+    "partOfSpeech": "",
+    "russianTranslation": "Мочь — can",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Магар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Интерфейс — interface",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ма́за (~ш) (б, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Сеть — net, network",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ма́зада́къа (~доакъош) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Сайт (веб-сайт) — website",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Массаза",
+    "partOfSpeech": "",
+    "russianTranslation": "Всегда — always",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Массазадар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Обычный — usual",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Массал (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Пример — example",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Массехк",
+    "partOfSpeech": "",
+    "russianTranslation": "Несколько — few several",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Мега",
+    "partOfSpeech": "",
+    "russianTranslation": "Приём, ОК — OK",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Мегаш",
+    "partOfSpeech": "",
+    "russianTranslation": "Нормальный — normal",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Меттахьдаккха",
+    "partOfSpeech": "",
+    "russianTranslation": "Передвигать — move",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Меттахьдоаккхалора",
+    "partOfSpeech": "",
+    "russianTranslation": "Переносимый — moveable",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Меттигаш хувца",
+    "partOfSpeech": "",
+    "russianTranslation": "Поменять местами — swap",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Меттигера",
+    "partOfSpeech": "",
+    "russianTranslation": "Локальный — local",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Моллаг1а",
+    "partOfSpeech": "",
+    "russianTranslation": "Любой — any",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Моттиг (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Место — room space",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Моттиг (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Позиция — position",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Моттиг мукъайитар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Резервирование места — allocation",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Моттиг яц",
+    "partOfSpeech": "",
+    "russianTranslation": "Нет места — out of space",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Мохк (мехкаш) (б, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Регион — region",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Муг1 (~арч) (б, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Ряд, строка — row string",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Мур (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Период — period",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Нана-ц1а (~ц1енош) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Домен — domen",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Нийсса",
+    "partOfSpeech": "",
+    "russianTranslation": "Точный — exact",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Никъ (нькъаш) (б, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Путь — path way",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ни1 (на1араш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Портал — portal",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Новкъарле е",
+    "partOfSpeech": "",
+    "russianTranslation": "Помещать — fit",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Оаг1ув (~онаш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Страница — page",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Оаз (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Звук — sound",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Оазъяьзъярг (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Магнитофон — recorder",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "О́за",
+    "partOfSpeech": "",
+    "russianTranslation": "Тянуть — pull",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Оттадар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Инсталляция — installation",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Оттаде",
+    "partOfSpeech": "",
+    "russianTranslation": "Установка — setup set",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Оттамаш (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Settings — настройки",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Оффсет (й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Оффсет — offset",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Па́йда эца",
+    "partOfSpeech": "",
+    "russianTranslation": "Использовать — use",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Па́йда эца",
+    "partOfSpeech": "",
+    "russianTranslation": "Применить — apply",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Па́йдалур (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Используемый — useful",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Па́йдалур (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Руководство пользователя — guide",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Па́йдаэцар (~аш) (в, б)",
+    "partOfSpeech": "",
+    "russianTranslation": "Пользователь — user",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Параграф (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Параграф — paragraph",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Паркх (~аш) (б, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Стек — stack",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Программа чура г1алат (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Ошибка в программе — fault",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Программан да́къа (доакъош) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Подпрограмма — subroutine",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Программан кхоачам (б)",
+    "partOfSpeech": "",
+    "russianTranslation": "Программное обеспечение — hardware software",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Процессор (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Процессор — processor",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Пурам (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Разрешение — resolution",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Пхораг1а",
+    "partOfSpeech": "",
+    "russianTranslation": "Горизонтальный — horizontal",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Пхьар (~аш) (в, б)",
+    "partOfSpeech": "",
+    "russianTranslation": "Мастер, главный — master",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Са́барде",
+    "partOfSpeech": "",
+    "russianTranslation": "Приостановить — fail",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Сатташ дола",
+    "partOfSpeech": "",
+    "russianTranslation": "Гибкий — floppy",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Сацар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Пауза — delay",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Сел к1езига",
+    "partOfSpeech": "",
+    "russianTranslation": "Слишком мало — insufficient",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Сервер (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Сервер — server",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Сереца йола",
+    "partOfSpeech": "",
+    "russianTranslation": "Серийный — serial",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Сибат (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Вид — pattern",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Сийрда",
+    "partOfSpeech": "",
+    "russianTranslation": "Светлый — light",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Сийрдадаккха",
+    "partOfSpeech": "",
+    "russianTranslation": "Подсветлить (выделить) — highlight",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Синтаксис (й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Синтаксис — syntax",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Сира",
+    "partOfSpeech": "",
+    "russianTranslation": "Серый — grey",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Системаца йоаца",
+    "partOfSpeech": "",
+    "russianTranslation": "Несистемный — non-system",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Системацара 1аькъа (1оакъаш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Системный диск — system disk",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Сиха йоазув (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Курсив — italic",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Сиха",
+    "partOfSpeech": "",
+    "russianTranslation": "Быстрый — fast",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Сиха",
+    "partOfSpeech": "",
+    "russianTranslation": "Быстрый — quick",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Сома",
+    "partOfSpeech": "",
+    "russianTranslation": "Жирный — bold",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Соцаде",
+    "partOfSpeech": "",
+    "russianTranslation": "Остановить — halt",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Сурт (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Рисунок — picture",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Сурт дила",
+    "partOfSpeech": "",
+    "russianTranslation": "Рисовать — plot",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Сурт оттадар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Описание — description",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Сухал (й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Скорость — speed",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Тайп-тайпара",
+    "partOfSpeech": "",
+    "russianTranslation": "Различный — different",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Тахка",
+    "partOfSpeech": "",
+    "russianTranslation": "Проверить — check",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Таьрахь (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Число — number",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Таьрахь дар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Нумерация страниц — pagination",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Текст (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Текст — text",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Тептарче (~наш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Библиотека — library",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Теркал ма де",
+    "partOfSpeech": "",
+    "russianTranslation": "Игнорировать — ignore",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Тешам бала",
+    "partOfSpeech": "",
+    "russianTranslation": "Гарантировать — provide",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Тоадар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Усовершенствование — upgrade",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Тоаде",
+    "partOfSpeech": "",
+    "russianTranslation": "Исправить — correct",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Тоаде",
+    "partOfSpeech": "",
+    "russianTranslation": "Редактировать — edit",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Тоамбоаца",
+    "partOfSpeech": "",
+    "russianTranslation": "Некорректный — incorrect",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Товшхилар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Совместимость — compatibility",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "То1ае",
+    "partOfSpeech": "",
+    "russianTranslation": "Нажать — hit push",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "То1аер (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Кнопка — button",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Тхьамаг1а (~ш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Метка — label",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Тхьовре",
+    "partOfSpeech": "",
+    "russianTranslation": "Уже — already",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Т1адам (~аш) (б, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Точка — point dot",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Т1адиллар (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Задание — request",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Т1акхоачилга",
+    "partOfSpeech": "",
+    "russianTranslation": "Доступ — access",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Т1атоха",
+    "partOfSpeech": "",
+    "russianTranslation": "Добавить — add",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Т1ато1аде",
+    "partOfSpeech": "",
+    "russianTranslation": "Нажать — press",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Т1ахьехам (~аш) (б, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Вызов — call",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Т1ахьожаярг (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Ссылка — link",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Т1еракхосса",
+    "partOfSpeech": "",
+    "russianTranslation": "Сбросить — reset",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Т1ехдикал (й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Качество — quality",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Т1ехйизар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Переполнение — override",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Т1еххьара амараш (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Список последних команд — history",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Т1еххьардар",
+    "partOfSpeech": "",
+    "russianTranslation": "Окончательный — finally",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Т1ехът1ахьожаярг (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Гиперссылка — hyperlink",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Т1ехьадоаг1ар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Следующий — next",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Т1орми (~еш) (б, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Папка — folder",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Урд (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Поле — field",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Фон (й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Фон — background",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Формул (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Формула — formula",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ха́нара",
+    "partOfSpeech": "",
+    "russianTranslation": "Временный — temporary",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Харжа",
+    "partOfSpeech": "",
+    "russianTranslation": "Выбрать — pick select",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Харжам (б)",
+    "partOfSpeech": "",
+    "russianTranslation": "Меню — menu",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Харжар (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Опция — option",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Харцдар (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Неправильный (не ожидаемый) — invalid",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ха́ттар (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Вопрос — question",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хеца",
+    "partOfSpeech": "",
+    "russianTranslation": "Запустить — run",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хила тарлур (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Версия — version",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хила",
+    "partOfSpeech": "",
+    "russianTranslation": "Существовать — exist",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хилийта",
+    "partOfSpeech": "",
+    "russianTranslation": "Сохранить — store",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хоададе",
+    "partOfSpeech": "",
+    "russianTranslation": "Вырезать — cut",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хоам (~аш) (б, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Сообщение — message",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хоамбар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Информация — info",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хоржам (~аш) (б, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Выбор — case choice",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хотта",
+    "partOfSpeech": "",
+    "russianTranslation": "Соединить — connect",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хотташ йола",
+    "partOfSpeech": "",
+    "russianTranslation": "Связывающий — sequential",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хувца",
+    "partOfSpeech": "",
+    "russianTranslation": "Изменить — change",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хувца",
+    "partOfSpeech": "",
+    "russianTranslation": "Сменить — exchange",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хувцалу",
+    "partOfSpeech": "",
+    "russianTranslation": "Переменный — floating",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьадаста",
+    "partOfSpeech": "",
+    "russianTranslation": "Распаковать — unpack",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьаделла",
+    "partOfSpeech": "",
+    "russianTranslation": "Открыть — open",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьадеха",
+    "partOfSpeech": "",
+    "russianTranslation": "Требовать — require",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьажа",
+    "partOfSpeech": "",
+    "russianTranslation": "Пробовать — try",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьакхолла",
+    "partOfSpeech": "",
+    "russianTranslation": "Создать — create",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьакъостадар д1адаккха",
+    "partOfSpeech": "",
+    "russianTranslation": "Снять выделение — unselect",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьал (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Статус — status",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьалаха",
+    "partOfSpeech": "",
+    "russianTranslation": "Найти — find",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьалйизар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Переполнение — overflow",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьалсага / д1айоае",
+    "partOfSpeech": "",
+    "russianTranslation": "Включить / выключить — turn on / off",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьалсага",
+    "partOfSpeech": "",
+    "russianTranslation": "Включить — log in on",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьалсагар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Старт системы — boot",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьалтовса (дараш)",
+    "partOfSpeech": "",
+    "russianTranslation": "Выслать (данные) — put",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьалха",
+    "partOfSpeech": "",
+    "russianTranslation": "До — before",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьалхадар",
+    "partOfSpeech": "",
+    "russianTranslation": "Вступление — introduction",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьалхара",
+    "partOfSpeech": "",
+    "russianTranslation": "Черновой — draft",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьалхардар (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Предыдущий — previous",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьалхашкахьа",
+    "partOfSpeech": "",
+    "russianTranslation": "Вперёд — forwards",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьарак (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Знак — tilde",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьасомадаккха",
+    "partOfSpeech": "",
+    "russianTranslation": "Активировать — activate",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьат1аэца",
+    "partOfSpeech": "",
+    "russianTranslation": "Принять — accept",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьахаржа",
+    "partOfSpeech": "",
+    "russianTranslation": "Взять, отобрать — receive",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьахаржа",
+    "partOfSpeech": "",
+    "russianTranslation": "Определить — specify",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьахиннар",
+    "partOfSpeech": "",
+    "russianTranslation": "Результат — issue",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьахьокха",
+    "partOfSpeech": "",
+    "russianTranslation": "Показать — show",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьахьокхар (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Индикатор — indicator",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьаэц",
+    "partOfSpeech": "",
+    "russianTranslation": "Взять — get",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьаязъяьр (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Список — list",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьежа",
+    "partOfSpeech": "",
+    "russianTranslation": "Ждать — wait",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьежа",
+    "partOfSpeech": "",
+    "russianTranslation": "Ожидать — expect",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьисап (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Пометка — note",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьисапакаьхат (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Документ — document",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьожашхила",
+    "partOfSpeech": "",
+    "russianTranslation": "Просматривать — browse",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Хьожаяр (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Сноска — footnote",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Цагур",
+    "partOfSpeech": "",
+    "russianTranslation": "Невидимый — invisible",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Цадешалу",
+    "partOfSpeech": "",
+    "russianTranslation": "Нечитаемый — unreadable",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Цаховш",
+    "partOfSpeech": "",
+    "russianTranslation": "Случайный — random",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ца1 мара доаца",
+    "partOfSpeech": "",
+    "russianTranslation": "Единственный — single",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Цусахьте",
+    "partOfSpeech": "",
+    "russianTranslation": "Немедленно — immediately",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Цхьа бос бола",
+    "partOfSpeech": "",
+    "russianTranslation": "Монохромный — monochrome",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Цхьа да́къа (доакъош) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Панель — panel",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Цхьалха",
+    "partOfSpeech": "",
+    "russianTranslation": "Простой — simple",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Цхьалхадаккха",
+    "partOfSpeech": "",
+    "russianTranslation": "Форматировать — format",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Цхьалхаяьккхайоаца",
+    "partOfSpeech": "",
+    "russianTranslation": "Неформатированный — unformatted",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ц1а (ц1енош) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Офис — office",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ц1аг1ара компутер (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Домашний компьютер — home computer",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ц1аькхаза де",
+    "partOfSpeech": "",
+    "russianTranslation": "Дублировать — duplicate",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ц1аькхаза",
+    "partOfSpeech": "",
+    "russianTranslation": "Повторить — repeat",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ц1аькхаза",
+    "partOfSpeech": "",
+    "russianTranslation": "Снова — again",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ц1ена",
+    "partOfSpeech": "",
+    "russianTranslation": "Чистый — blank",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ц1и (ц1ераш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Имя — name",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ц1и хувца",
+    "partOfSpeech": "",
+    "russianTranslation": "Переименовать — rename",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Чакхдаккха",
+    "partOfSpeech": "",
+    "russianTranslation": "Закончить — terminate",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Чоалх (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Устройство — device",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Чу",
+    "partOfSpeech": "",
+    "russianTranslation": "Внутри — inside",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Чу/ара",
+    "partOfSpeech": "",
+    "russianTranslation": "Вход/выход — I/O (input/output)",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Чудар (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Содержимое — content",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Чудига",
+    "partOfSpeech": "",
+    "russianTranslation": "Ввести — enter",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Чудилла",
+    "partOfSpeech": "",
+    "russianTranslation": "Загрузить — load",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Чудиллар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Загрузка — loading",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Чудоаг1араш (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Входные данные — input",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Чудолла",
+    "partOfSpeech": "",
+    "russianTranslation": "Вставить (вклеить) — paste",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Чулоацам (~аш) (б, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Свойство — property",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Чуоттаде",
+    "partOfSpeech": "",
+    "russianTranslation": "Вставить — include",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Чуоттаде",
+    "partOfSpeech": "",
+    "russianTranslation": "Поместить — place",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Чура",
+    "partOfSpeech": "",
+    "russianTranslation": "Внутренний — internal",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ч1оаг1а 1аькъа (~1оакъош) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Жёсткий диск — hard disk",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Шаккъе",
+    "partOfSpeech": "",
+    "russianTranslation": "Оба — both",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Ше-ше",
+    "partOfSpeech": "",
+    "russianTranslation": "Автономный, отключенный — off-line",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Шера",
+    "partOfSpeech": "",
+    "russianTranslation": "Широкий — wide",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Шердалар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Расширение — extension",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Шердаь",
+    "partOfSpeech": "",
+    "russianTranslation": "Расширенный — advanced extend",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Шетахкар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Самотестирование — self-test",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Шийдар",
+    "partOfSpeech": "",
+    "russianTranslation": "Собственный — proper",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Шоллаг1а",
+    "partOfSpeech": "",
+    "russianTranslation": "Второй — second",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Шоллаг1дар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Второй — secondary",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Шолпроцессор (й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Сопроцессор — coprocessor successor",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Шорал (й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Ширина — width",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Шрифт (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Шрифт — font",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Экран (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Экран — screen",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Эргдалар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Прогресс — progress",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Эша",
+    "partOfSpeech": "",
+    "russianTranslation": "Требоваться — need",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Эшаш йола",
+    "partOfSpeech": "",
+    "russianTranslation": "Необходимый — necessary",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юкъ (й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Центр — center",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юкъара",
+    "partOfSpeech": "",
+    "russianTranslation": "Общий — general",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юкъарал",
+    "partOfSpeech": "",
+    "russianTranslation": "Буфер — buffer",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юкъахдаккхар",
+    "partOfSpeech": "",
+    "russianTranslation": "Прерывание — interrupt",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юкъе",
+    "partOfSpeech": "",
+    "russianTranslation": "Между — between",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юкъерадаккхар",
+    "partOfSpeech": "",
+    "russianTranslation": "Исключение — exception",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юха де",
+    "partOfSpeech": "",
+    "russianTranslation": "Повторить — retry",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юха хьалсагар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Перезагрузка — overload",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юха",
+    "partOfSpeech": "",
+    "russianTranslation": "Назад — backspace",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юхадаккха",
+    "partOfSpeech": "",
+    "russianTranslation": "Отменить — cancel undo",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юхадар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Обратный — reverse",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юхадерзадаьр (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Апостроф — quote",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юхадеха",
+    "partOfSpeech": "",
+    "russianTranslation": "Вызвать снова — recall",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юхадоаладе",
+    "partOfSpeech": "",
+    "russianTranslation": "Вернуть — return",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юхаларх1а",
+    "partOfSpeech": "",
+    "russianTranslation": "Пересчитать — toggle",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юхаоттадар",
+    "partOfSpeech": "",
+    "russianTranslation": "Перестроение — rebuild",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юхасагар (д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Перезагрузка — reboot",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юхаяьзде",
+    "partOfSpeech": "",
+    "russianTranslation": "Перезаписать — restore",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юххьанцардар (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Первый (начальный) — primary",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "Юхь (й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Начало строки (текста) — home",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "1аькъа (1оакъош) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Диск — disk",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "1аькъалелаер (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Дисковод — drive",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "1аькъилг (~аш) (й, й)",
+    "partOfSpeech": "",
+    "russianTranslation": "Дискета — diskette",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "1и (~енаш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Тень — shadow",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "1илман",
+    "partOfSpeech": "",
+    "russianTranslation": "Научный — scientific",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "1ок1езигде",
+    "partOfSpeech": "",
+    "russianTranslation": "Уменьшить — decrease",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "1омадерг (~аш) (д, д)",
+    "partOfSpeech": "",
+    "russianTranslation": "Учебник — handbook",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "1осоцаде",
+    "partOfSpeech": "",
+    "russianTranslation": "Прервать — abort break",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "1от1атоха",
+    "partOfSpeech": "",
+    "russianTranslation": "Добавить — merge",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "1оц1енде",
+    "partOfSpeech": "",
+    "russianTranslation": "Очистить — clean",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "1очудилла",
+    "partOfSpeech": "",
+    "russianTranslation": "Поместить — locate",
+    "terms": "Компьютерные термины"
+  },
+  {
+    "dictionary": "КОДКТ",
+    "ingushWord": "1очуоттаде",
+    "partOfSpeech": "",
+    "russianTranslation": "Вставить — insert plug",
+    "terms": "Компьютерные термины"
+  }
+]

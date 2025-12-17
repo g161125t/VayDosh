@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="24299" systemVersion="24G90" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="DictionaryWord" representedClassName="DictionaryWord" syncable="YES" codeGenerationType="class">
+        <attribute name="dictionary" optional="YES" attributeType="String"/>
+        <attribute name="favoritedDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="ingushWord" optional="YES" attributeType="String"/>
+        <attribute name="isFavorite" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="partOfSpeech" optional="YES" attributeType="String"/>
+        <attribute name="russianTranslation" optional="YES" attributeType="String"/>
+        <attribute name="terms" optional="YES" attributeType="String"/>
+    </entity>
+</model>
