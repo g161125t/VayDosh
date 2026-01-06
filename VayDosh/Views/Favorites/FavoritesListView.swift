@@ -47,5 +47,5 @@ struct FavoritesListView: View {
   let viewContext = PersistenceController.preview.container.viewContext
   FavoritesListView()
     .environment(\.managedObjectContext, viewContext)
-    .environmentObject(ViewModel())
+    .environmentObject(ViewModel(viewContext))
 }

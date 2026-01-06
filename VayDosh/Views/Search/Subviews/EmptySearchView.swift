@@ -40,8 +40,3 @@ struct EmptySearchView: View {
     .foregroundStyle(.secondary)
   }
 }
-
-#Preview {
-  EmptySearchView()
-    .environmentObject(ViewModel())
-}

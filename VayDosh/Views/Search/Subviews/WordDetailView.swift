@@ -98,6 +98,6 @@ struct WordDetailView: View {
   NavigationView {
     WordDetailView(word: .preview(in: viewContext))
       .environment(\.managedObjectContext, viewContext)
-      .environmentObject(ViewModel())
+      .environmentObject(ViewModel(viewContext))
   }
 }

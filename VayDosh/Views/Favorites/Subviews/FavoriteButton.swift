@@ -6,11 +6,9 @@
 //
 
 import SwiftUI
-import CoreData
 
 struct FavoriteButton: View {
   @EnvironmentObject private var vm: ViewModel
-  @Environment(\.managedObjectContext) private var viewContext
   
   @ObservedObject var word: DictionaryWord
   
@@ -24,7 +22,7 @@ struct FavoriteButton: View {
           word.isFavorite = true
           word.favoritedDate = Date()
         }
-        vm.saveContext(viewContext)
+        vm.saveChanges()
       }
     } label: {
       Image(systemName: word.isFavorite ? "star.fill" : "star")

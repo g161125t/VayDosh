@@ -41,5 +41,5 @@ struct WordListRowView: View {
   let viewContext = PersistenceController.preview.container.viewContext
   WordListRowView(word: .preview(in: viewContext))
     .environment(\.managedObjectContext, viewContext)
-    .environmentObject(ViewModel())
+    .environmentObject(ViewModel(viewContext))
 }

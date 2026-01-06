@@ -11,9 +11,13 @@ import CoreData
 @main
 struct VayDoshApp: App {
   @AppStorage("displayMode") private var displayMode = DisplayMode.system
-
+  
   private let viewContext = PersistenceController.shared.container.viewContext
-  private let vm = ViewModel()
+  private let vm: ViewModel
+  
+  init() {
+    vm = ViewModel(viewContext)
+  }
   
   var body: some Scene {
     WindowGroup {
